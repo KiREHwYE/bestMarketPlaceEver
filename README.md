@@ -12,7 +12,7 @@
     <p><strong>KubMarket</strong> is a university group project, created as a marketplace app with role-specific features to streamline order handling and pickup management. The app supports three user roles, each with distinct functionality to meet diverse needs.</p>
 
  <h2 id="screenshots">📸 Screenshots</h2>
-<img src="https://github.com/de4ltt/bestMarketPlaceEver/blob/dev/kub-market.jpg" alt="KubMarket UI" width="100%">
+![kubmarket](https://github.com/user-attachments/assets/5c6217ea-3310-4453-8062-aaa58561336f)
 
  <h2 id="about">📖 About the Project</h2>
     <p>KubMarket offers a role-based marketplace experience with functionalities that adapt based on the user's account type:</p>
@@ -48,7 +48,7 @@
  <h2 id="setup">⚙️ Setup Instructions</h2>
     <ol>
         <li>Clone the repository:
-            <div class="code-block"><code>git clone https://github.com/de4ltt/KubMarket.git</code></div>
+            <div class="code-block"><code>git clone https://github.com/VACdotCS/bestMarketPlaceEver.git</code></div>
         </li>
         <li>Open the project in Android Studio.</li>
         <li>Build the project to install dependencies and compile resources.</li>
@@ -64,9 +64,6 @@
 
   <h2 id="license">📜 License</h2>
     <p>This project does not have a license and is intended for educational purposes as part of a university group project.</p>
-
-  <h2>⬇️ Download</h2>
-    <p>The latest release can be downloaded from the <a href="https://github.com/de4ltt/KubMarket/releases">Releases</a> section of this repository.</p>
 </div>
 
 </body>
